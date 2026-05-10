@@ -29,13 +29,6 @@
 - 🔐 Cryptography Lab Works
 - 🎨 Computer Graphics Algorithms
 
----
-
-## 📊 GitHub Stats
-
-![Arnob's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuhassinulArnob&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuhassinulArnob&layout=compact&theme=tokyonight)
 
 ---
 
